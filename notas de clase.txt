@@ -36,6 +36,14 @@ Elementos de frase;
 
 elemento em;la letra se ve en cursiva
 
+<a href="https://www.facebook.com/jose.vidana.56" target="_blank">José Vidana</a>
+<strong>Good service in our job</strong>
+
+//no borrar
+		<article>
+			<h2 id="Servicios">Servicios</h2>
+			<p> <a href=""></a></p>	
+		</article>
 elemento strong;la letra se ve en negritas
 
 Encabezados:
