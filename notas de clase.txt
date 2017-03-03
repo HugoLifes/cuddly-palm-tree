@@ -1,0 +1,50 @@
+Elementos estructurales
+ 
+elementos genericos: 
+div: "contenido en bloque"
+
+span: "Contenido en linea"
+
+ejemplo de div y span html:
+<div class="borde">div 1</div>
+<div class="borde">div 2</div>
+<div class="borde">div 3</div>
+acomodar por fila
+
+<span class=>"borde">span 1</span>
+<span class=>"borde">span 2</span>
+<span class=>"borde">span 3</span>
+acomodar por renglon
+
+css "agregar bordes"
+ .borde{
+	border: 1px solid;
+ }
+
+<div id="id1">Elemento div con atributo id</div>
+<div class="clase1">elemento span con atributo class</span>
+
+Elementos estructurales
+Elemento <header></header> "encabezado"
+Elemento <nav></nav> "menu de navegacion"
+Elemento <article></article> "contiene posts y noticias"
+Elemento <section></section>"agrupar area por funciones o diferentes articulos por tema"
+Elemento <aside></aside> "seccion por contenido que esta sutilmente relacionado con el contenido prncipal a su alrededor pero no es fundamental 
+Elemento <footer></footer> "pie de pagina"
+
+Elementos de frase;
+
+elemento em;la letra se ve en cursiva
+
+elemento strong;la letra se ve en negritas
+
+Encabezados:
+<h1></1h>......<h6></h6>
+donde <h1> es el mas importante y <h6> el menos importante
+
+Elemento <p>
+representa un parrafo de texto en el navegador
+
+A= anchor
+<a href="https:devcode.la/">Mi Pimer enlace</a>
+
